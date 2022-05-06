@@ -1,0 +1,41 @@
+.list-item{
+    margin-left: 7%;
+}
+.forjq{
+    margin-left: 48%;
+    margin-top: -230px;
+    width: 50%;
+}
+.calculate{
+    border: 0.15rem solid green;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    // width: 200px;
+}
+.budget{
+    color: green;
+}
+.expense{
+    color: #B80C09;
+}
+#budget-submit{
+    color: green;
+    border: 0.15rem solid green;
+    &:hover{
+        background-color: green;
+        color: white;
+    }
+}
+.enter{
+    border: 0.15rem solid #B80C09;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+#expense-submit{
+    color: #B80C09;
+    border: 0.15rem solid #B80C09;
+    &:hover{
+        background-color: #B80C09;
+        color: white;
+    }
+}
